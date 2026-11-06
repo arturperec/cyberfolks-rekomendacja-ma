@@ -2,6 +2,8 @@
 
 # cyber_Folks (GPW: CBF) – rekomendacja M&A
 
+**Przygotował: Artur Pereć**
+
 Projekt dla funduszu **INDEX Whale Capital Management** (komitet inwestycyjny, 21.11.2026).
 
 - **Prezentacja:** [index.html](https://arturperec.github.io/cyberfolks-rekomendacja-ma/) – 10 slajdów + tytułowy; strzałki ←/→, `N` – notatki prelegenta (źródła), `F` – pełny ekran, druk do PDF z przeglądarki.
